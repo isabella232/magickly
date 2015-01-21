@@ -1,9 +1,3 @@
-# Blue Apron Magickly Fork
-
-The following changes are in this fork of Magickly, that is tracking version 2.0.1.
-
-* [ ] Introduce Clean URL Routes (https://github.com/afeld/magickly/pull/49)
-
 # ![Magickly - image manipulation as a (plugin-able) service](http://magickly.afeld.me/images/logo.jpg)
 
 Built as a practical wrapper of Imagemagick which handles caching, c/o the [Dragonfly](http://markevans.github.com/dragonfly/) gem.
@@ -18,6 +12,12 @@ More insights:
 
 * [Blog post](https://aidan.jux.com/nerdery/310516) about how it's used at <a href="https://jux.com">Jux</a>
 * [Talk](http://www.hakkalabs.co/articles/anatomy-ruby-gem-magickly) at [Anatomy of a Ruby Gem](http://www.meetup.com/Anatomy-of-a-Ruby-Gem/events/163904202/) ([slides](https://docs.google.com/presentation/d/1vuXqmMOssslx3nRxqWh1e3SgGN7_euYdVMIWm94DDPA/edit?usp=sharing))
+
+## Blue Apron Magickly Fork
+
+The following changes are in this fork of Magickly, that is tracking version 2.0.1.
+
+* [ ] Introduce Clean URL Routes (https://github.com/afeld/magickly/pull/49)
 
 ## Installation
 
